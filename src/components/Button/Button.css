@@ -1,0 +1,10 @@
+.add {
+    width: 60px;
+    height: 35px;
+    color: white;
+    background-color: #4eb570;
+    border: none;
+    border-radius: 8px;
+    margin-left: 5px;
+    cursor: pointer;
+}
